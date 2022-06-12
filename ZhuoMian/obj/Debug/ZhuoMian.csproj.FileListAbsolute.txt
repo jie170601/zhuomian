@@ -1,0 +1,9 @@
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Debug\ZhuoMian.exe
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Debug\ZhuoMian.pdb
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.csproj.AssemblyReference.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.Form1.resources
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.Properties.Resources.resources
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.csproj.GenerateResource.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.csproj.CoreCompileInputs.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.exe
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Debug\ZhuoMian.pdb

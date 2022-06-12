@@ -1,0 +1,13 @@
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Release\ZhuoMian.exe.manifest
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Release\ZhuoMian.application
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Release\ZhuoMian.exe
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\bin\Release\ZhuoMian.pdb
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.csproj.AssemblyReference.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.Form1.resources
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.Properties.Resources.resources
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.csproj.GenerateResource.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.csproj.CoreCompileInputs.cache
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.exe.manifest
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.application
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.exe
+C:\Users\iknow\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\Desktops\1\repo\ZhuoMian\ZhuoMian\obj\Release\ZhuoMian.pdb
